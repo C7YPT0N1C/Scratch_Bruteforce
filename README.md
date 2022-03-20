@@ -4,6 +4,10 @@ A bruteforcing program created in Scratch
 - Scratch Project: https://scratch.mit.edu/projects/641776687/
 - My Scratch Profile: https://scratch.mit.edu/users/PyroProdigy/
 
+If you want to edit this program, you must download the Turbowarp Desktop App, and edit the program using that.
+  - Turbowarp desktop download: https://desktop.turbowarp.org/
+
+
 USE INSTRUCTIONS:
 
 BRUTEFORCING:
@@ -18,9 +22,9 @@ BRUTEFORCING:
   - uppercase will not be detected
   - length doesn't matter
 
-- It will show the results of the attempts
-- Password will be bruteforced
-- Increase speed variable, and it will reduce the 
+  - It will show the results of the attempts
+  - Password will be bruteforced
+  - Increase speed variable, and it will reduce the 
   number of attempts per second
 
 GENERATING PASSWORDS:
