@@ -1,5 +1,5 @@
 # Scratch_Bruteforce
-A bruteforcing program created in Scratch
+A bruteforcing program created in Scratch.
 
 - Scratch Project: https://scratch.mit.edu/projects/641776687/
 - My Scratch Profile: https://scratch.mit.edu/users/PyroProdigy/
@@ -14,8 +14,8 @@ BRUTEFORCING:
 - Press space key
 - Choose bruteforce method:
   - "numerical" will bruteforce a password with numbers only
-  - "alphabetical" will bruteforce a password with normal letters only
-  - "plain" will bruteforce a password with normal letters and numbers
+  - "alphabetical" will bruteforce a password with normal letters and symbols only
+  - "plain" will bruteforce a password with normal letters, numbers, and symbols
 
 - Enter a  password:
   - Any character on English keyboard (letter, number, symbol)
