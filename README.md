@@ -1,9 +1,6 @@
 # Scratch_Bruteforce
 A bruteforcing program created in Scratch
 
-To run this effectively, you must download the Turbowarp Desktop App, and open the file using that.
-
-- Turbowarp desktop download: https://desktop.turbowarp.org/
 - Scratch Project: https://scratch.mit.edu/projects/641776687/
 - My Scratch Profile: https://scratch.mit.edu/users/PyroProdigy/
 
